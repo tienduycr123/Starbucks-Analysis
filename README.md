@@ -14,7 +14,7 @@
 
 
 ## ii. Medium Blog <a name="Blog"></a>
-More detail of my works are in the link
+More detail of my works are in the [link to blog](https://medium.com/@duypt10/a-study-to-change-promotional-strategies-and-attract-more-customers-to-starbucks-5fb6d92ef683).
 
 ## iii. Project Summary <a name="Summary"></a>
 This project analyzes simulated data that represents customer behavior on the Starbucks rewards mobile app. Starbucks periodically sends out offers to app users, which can be advertisements or actual offers like discounts or buy one get one free (BOGO) deals. The challenge is to determine which demographic groups respond best to different offer types.
