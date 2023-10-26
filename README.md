@@ -1,8 +1,8 @@
-# <h1 align="center">Udacity - Data Scientist Nanodegree Program</h1>
-<h2 align="center">Project 4: Starbucks Capstone Project</h2>
+
+<h1 align="center">Starbucks Analysis</h1>
 
 ## Table of Contents
-- Udacity - Data Scientist Nanodegree Program
+
   1. [Table of Contents](#table-of-contents)
   2. [Medium Blog](#Blog-)
   3. [Project Summary](#Summary-)
